@@ -30,6 +30,8 @@ Welcome to the NLP Lab Experiments Repository's Contribution Guidelines! We're e
 
 - Maintain the directory structure and naming conventions already established in the repository.
 
+- Follow this template for creating the [README.md](readme-guidelines.md) files for creating README files for new experiments.
+
 - Provide clear and concise documentation within your experiment directory. Explain the experiment's purpose, methodology, and expected outcomes.
 
 - Ensure well-documented code following PEP 8 style guidelines.

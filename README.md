@@ -34,7 +34,7 @@ To get started with the Vision Labs experiments, follow these steps:
 
 ## Contributing
 
-We welcome contributions to our Vision Labs Experiments Repository! If you have an experiment, improvement, or bug fix to share, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to our Vision Labs Experiments Repository! If you have an experiment, improvement, or bug fix to share, please follow our [contribution guidelines](CONTRIBUTION.md).
 
 ## License
 
