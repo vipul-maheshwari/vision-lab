@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+venv/
+
+# Dataset dirs
+/in
+/out
+
+# Model file
+*.pt
+
+# Misc
+*.log
+/runs
